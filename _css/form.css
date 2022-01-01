@@ -16,6 +16,11 @@ input:hover, textarea:hover {
     background-color: #dddddd;
 }
 
+input#button {
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
 legend {
     color: #888888;
     font-weight: bold;
