@@ -109,6 +109,7 @@ nav#menu ul{
     top: -20px;
     align-content: center;
     margin-left: 250px;
+    white-space: nowrap;
 }
 
 nav#menu li {
@@ -277,4 +278,8 @@ video#filme2 {
     position: relative;
     width: 350px;
     height: 160px;
+}
+
+@media (max-width: 910px) {
+    
 }
